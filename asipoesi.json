@@ -1,0 +1,22 @@
+{
+ "poemas" : [
+{
+   "id": 0,
+   "titulo": "Distintas",
+   "autor": " Gustavo Yuste",
+   "poema": "Este poema no va a ser el fuego\\nque arrase con todo\\na pesar de las voluntades ajenas.\\nEn cambio sí va a tener la terquedad\\nde una pequeña vela\\nprendida junto a una foto\\npara ayudar de una extraña forma\\na que todo salga lo mejor posible.\\n"
+ },
+ {
+   "id": 1,
+   "titulo": "TRENZA",
+   "autor": "Cecilia Pavón",
+   "poema": "Y pensé que mi día es como una larga trenza de pelo negro y sedoso\ny dentro de esa larga trenza está este libro en el que caen las palabras\nun día tengo fe\nun día pierdo la fe\nun día tengo fe\nun día pierdo la fe\ny en el día se trenzan la fe y la falta de fe\nla fe y la falta de fe\nla fe y la falta de fe.\n"
+ },
+ {
+   "id": 2,
+   "titulo": "NADA ES DEMASIADO PEQUEÑO COMO PARA NO HACERSE PREGUNTAS",
+   "autor": "Mary Oliver",
+   "poema": "El grillo no se pregunta\nsi existe el cielo\no, si es que existe, si habrá espacio para él.\nEs otoño. El romance ha acabado. Aun así, canta.\n\nSi puede, entra en una casa\npor el resquicio más pequeño de la puerta.\nEntonces la casa se vuelve más fría.\n\nCanta despacio y más despacio.\nY de pronto, nada.\nDebe de significar algo, no sé qué.\n\nPero sin duda no significa\nque no haya sido un excelente grillo\ndurante toda su vida.\nn"
+ }
+]
+}
