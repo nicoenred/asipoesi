@@ -1,5 +1,4 @@
-{
- "poemas" : [
+[
 {
    "id": 0,
    "titulo": "Distintas",
@@ -19,4 +18,3 @@
    "poema": "El grillo no se pregunta\nsi existe el cielo\no, si es que existe, si habrá espacio para él.\nEs otoño. El romance ha acabado. Aun así, canta.\n\nSi puede, entra en una casa\npor el resquicio más pequeño de la puerta.\nEntonces la casa se vuelve más fría.\n\nCanta despacio y más despacio.\nY de pronto, nada.\nDebe de significar algo, no sé qué.\n\nPero sin duda no significa\nque no haya sido un excelente grillo\ndurante toda su vida.\nn"
  }
 ]
-}
